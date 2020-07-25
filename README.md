@@ -1,4 +1,4 @@
-# soh4il/ama
+# Soh4il/ama
 
 This is a quick little ask-[me](mailto:sohailmahmud@yahoo.com)-anything type of repository. It is forked from @holman's feedback repo and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
